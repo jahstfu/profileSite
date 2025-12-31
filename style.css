@@ -1,4 +1,28 @@
-p {
-    color: red;
+h1 , h2{
+    color: navy;
     text-align: center;
+}
+
+p {
+    color: black;
+    text-align: left;
+}
+
+body {
+    background-color: #add8e6;
+}
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: 3%;
+    margin-right: auto;
+    border-radius: 25%;
+}
+
+.button2:hover {
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.6)
 }
